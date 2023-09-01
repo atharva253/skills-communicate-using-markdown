@@ -10,3 +10,7 @@
 ``` python
 print("Hello, world!")
 ```
+
+- [ ] Headers
+- [ ] Images
+- [ ] Code
